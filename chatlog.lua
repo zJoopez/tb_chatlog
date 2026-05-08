@@ -1,6 +1,11 @@
+-- Created by joopez
+-- Project: Chatlog v.1.0.0
+-- Built for Toribash v.5.76
+---/ls chatlog.lua
+---/ls chatlog/chatlog.lua
 local hookname = "chatlog"
 local filePath = "../data/script/chatlog.txt"
--- filePath = "../data/script/log/chatlog.txt"
+-- filePath = "../data/script/chatlog/chatlog.txt"
 
 remove_hooks(hookname)
 local file = Files.Open(filePath, FILES_MODE_WRITE)
