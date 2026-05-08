@@ -7,7 +7,7 @@ local file = Files.Open(filePath, FILES_MODE_WRITE)
 
 local function custom_echo(msg, color)
     if color < 10 then color = "0" .. color end
-    echo("^" .. COLORS.BLOSSOM .. "[ReplayFocus] ^" .. color .. msg)
+    echo("^" .. COLORS.BLOSSOM .. "[Chatlog] ^" .. color .. msg)
 end
 
 local function kys()
