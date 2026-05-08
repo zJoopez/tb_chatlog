@@ -2,7 +2,7 @@
 
 A script that logs chat to a .txt file with timestamps
 
-<h2>Tired of taking screenshots?</h2>
+Tired of taking screenshots?
 need timestamps?
 find looking for older message ingame inconvinient? ( no searchability ingame)
 chat window too small for viewing printed lua tables?
